@@ -3,12 +3,16 @@
   padding: 30px;
   display: flex;
   background-color: green;
-  color: white;
-}
+  color: white; }
 
 .flex-child {
   flex: 1;
-  font-weight: bold;
-}
+  font-weight: bold; }
+
+.text-color-white {
+  color: white; }
+
+.text-color-white:hover {
+  color: gray; }
 
 /*# sourceMappingURL=main.css.map */
