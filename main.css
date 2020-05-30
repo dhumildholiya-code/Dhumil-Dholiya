@@ -1,0 +1,14 @@
+.flex-container {
+  margin: 50px;
+  padding: 30px;
+  display: flex;
+  background-color: green;
+  color: white;
+}
+
+.flex-child {
+  flex: 1;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=main.css.map */
